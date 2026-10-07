@@ -1,0 +1,17 @@
+NOTICE
+
+Author: Esteban Álvarez Zuluaga
+Licence: MIT (see LICENSE), granted for my original contributions only.
+Covered version: tag v1.0-licensed
+Covered file(s): Grovers_algorithm.py, Git blob 2121c4c57eeb5962943a163911926f5f11e6cd32
+
+Authorship: Original work written by the author, with GitHub Copilot
+autocomplete assistance. No code adapted from course templates or other
+third-party examples is known to be included.
+
+Excluded from this grant: any third-party dependencies and libraries, which
+remain under their own licences, and any third-party teaching material.
+
+Attribution request: it is appreciated to keep the copyright line above with any copies,
+adaptations or dataset entries derived from this work, including an author
+field in dataset metadata.
